@@ -1,11 +1,11 @@
 # 🎬 CineScope Web Application
 
-## 📌 Project Overview
+## Project Overview
 
 The **CineScope Web Application** is a simple and interactive web-based project that allows users to log in and search for movies using an external API. 
 It demonstrates frontend development skills including HTML, CSS, JavaScript, and API integration.
 
-## 🚀 Features
+## Features
 
 * 🔐 User Login Authentication (using local JSON file)
 * 🎥 Search movies by title
@@ -13,8 +13,7 @@ It demonstrates frontend development skills including HTML, CSS, JavaScript, and
 * ⚡ Real-time data fetching using API
 * 📱 Responsive and modern UI design
 
-## 🛠️ Technologies Used
-
+##  Technologies Used
 * **HTML5** – Structure of the application
 * **CSS3** – Styling and responsive design
 * **JavaScript (ES6)** – Functionality and API handling
@@ -29,23 +28,21 @@ project-folder/
 │── users.json
 
 
-## 🔑 How It Works
-
+## How It Works
 1. User enters email and password
 2. Credentials are validated from `users.json`
 3. On successful login, movie search page is displayed
 4. User searches for a movie
 5. Data is fetched from OMDb API and displayed on screen
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Download or clone the repository
 2. Open the project folder
 3. Make sure `users.json` file is present
 4. Open `index.html` in your browser
 
-## 🔐 Sample User (for testing)
-
+## Sample User (for testing)
 ```json
 [
   {
@@ -55,18 +52,18 @@ project-folder/
 ]
 
 
-## 🌐 API Used
+## API Used
 
 * OMDb API: https://www.omdbapi.com/
 
 
-**## 📸 Output Screens******
+**##Output Screens***
 
 * Login Page
 * Movie Search Page with results
 
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 * 🔓 Add Logout functionality
 * ⭐ Add Favorites/Watchlist
@@ -75,8 +72,7 @@ project-folder/
 * ⚛️ Convert to React Application
 
 
-## 📌 Conclusion
+## Conclusion
 
-This project showcases the integration of frontend technologies with external APIs and demonstrates basic authentication handling. It is a great beginner-to-intermediate level project for learning web development.
-
----
+This project showcases the integration of frontend technologies with external APIs and demonstrates basic authentication handling.
+It is a great beginner-to-intermediate level project for learning web development.
